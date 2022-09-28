@@ -13,7 +13,7 @@ body {
     background: linear-gradient(to bottom, white 50%, rgb(159, 213, 247) 50%);
     margin: auto;
   }
-  
+
   .navbar-brand{
     display: flex;
     height: 10px;
@@ -163,6 +163,3 @@ body {
   .overlay {
     position: absolute;
   }
-  
-  
-  
